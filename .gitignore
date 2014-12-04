@@ -20,7 +20,7 @@
 *.tar
 *.zip
 
-#temp*
+temp*
  
 # Logs and databases #
 ######################
